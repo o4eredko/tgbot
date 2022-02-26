@@ -30,3 +30,5 @@ report/
 # python specific
 __pycache__/
 venv/
+
+private.key
