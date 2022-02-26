@@ -1,0 +1,32 @@
+.env
+
+# User-specific stuff
+.idea
+.idea_modules/
+
+vendor
+### Go template
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Playground binary used to test stuff.
+cmd/playground
+
+# local debud files
+local/
+db_dump/
+report/
+
+# python specific
+__pycache__/
+venv/
